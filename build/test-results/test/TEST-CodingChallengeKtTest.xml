@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodingChallengeKtTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-05-04T23:47:58" hostname="LAPTOP-50NO84LV" time="0.089">
+  <properties/>
+  <testcase name="test 5 - multiply operand variation Test()" classname="CodingChallengeKtTest" time="0.069"/>
+  <testcase name="test 8 - whole numbers are allowed as operands()" classname="CodingChallengeKtTest" time="0.0"/>
+  <testcase name="test 3 - add operand variation Test()" classname="CodingChallengeKtTest" time="0.001"/>
+  <testcase name="test 2 - given example 2()" classname="CodingChallengeKtTest" time="0.001"/>
+  <testcase name="test 9 - special case example 1()" classname="CodingChallengeKtTest" time="0.001"/>
+  <testcase name="test 8 - negative number example()" classname="CodingChallengeKtTest" time="0.001"/>
+  <testcase name="test 1 - given example 1()" classname="CodingChallengeKtTest" time="0.0"/>
+  <testcase name="test 7 - Operands and operators shall be separated by one or more spaces()" classname="CodingChallengeKtTest" time="0.002"/>
+  <testcase name="test 4 - subtract operand variation Test()" classname="CodingChallengeKtTest" time="0.001"/>
+  <testcase name="test 6 - divide operand variation Test()" classname="CodingChallengeKtTest" time="0.001"/>
+  <testcase name="test 10 - special case example 2()" classname="CodingChallengeKtTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
