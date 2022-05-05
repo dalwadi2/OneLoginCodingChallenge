@@ -17,8 +17,12 @@
 ```
 > Code Solution File Path
 
-src/main/kotlin/CodingChallenge.kt
+[CodingChallenge.kt](src/main/kotlin/CodingChallenge.kt)
 
 > Test Case File Path
 
-src/test/kotlin/CodingChallengeKtTest.kt
+[CodingChallengeKtTest.kt](src/test/kotlin/CodingChallengeKtTest.kt)
+
+Referance Video
+
+![Video_2022-05-05_051809](https://user-images.githubusercontent.com/16306370/166847168-69bab0b2-c837-48de-93d2-2111a3f976a7.gif)
